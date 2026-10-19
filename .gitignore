@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+
+sih_env/
+sih-env/
+.venv/
+venv/
+
+.env
+.env.*
+
+.DS_Store

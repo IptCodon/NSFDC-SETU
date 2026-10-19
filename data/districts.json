@@ -1,0 +1,302 @@
+[
+    {
+        "district_id": "OD-001",
+        "district": "Angul",
+        "headquarters": "Angul",
+        "location_type": "district_headquarters",
+        "lat": 20.84903,
+        "lon": 85.06079,
+        "source": "Prototype district coordinate dataset",
+        "last_verified": "2026-08-28"
+    },
+    {
+        "district_id": "OD-002",
+        "district": "Balangir",
+        "headquarters": "Balangir",
+        "location_type": "district_headquarters",
+        "lat": 20.70419,
+        "lon": 83.49029,
+        "source": "Prototype district coordinate dataset",
+        "last_verified": "2026-08-28"
+    },
+    {
+        "district_id": "OD-003",
+        "district": "Bargarh",
+        "headquarters": "Bargarh",
+        "location_type": "district_headquarters",
+        "lat": 21.33348,
+        "lon": 83.61905,
+        "source": "Prototype district coordinate dataset",
+        "last_verified": "2026-08-28"
+    },
+    {
+        "district_id": "OD-004",
+        "district": "Balasore",
+        "headquarters": "Balasore",
+        "location_type": "district_headquarters",
+        "lat": 21.49266,
+        "lon": 86.93348,
+        "source": "Prototype district coordinate dataset",
+        "last_verified": "2026-08-28"
+    },
+    {
+        "district_id": "OD-005",
+        "district": "Bhadrak",
+        "headquarters": "Bhadrak",
+        "location_type": "district_headquarters",
+        "lat": 21.05447,
+        "lon": 86.51561,
+        "source": "Prototype district coordinate dataset",
+        "last_verified": "2026-08-28"
+    },
+    {
+        "district_id": "OD-006",
+        "district": "Boudh",
+        "headquarters": "Boudh",
+        "location_type": "district_headquarters",
+        "lat": 20.83773,
+        "lon": 84.32618,
+        "source": "Prototype district coordinate dataset",
+        "last_verified": "2026-08-28"
+    },
+    {
+        "district_id": "OD-007",
+        "district": "Cuttack",
+        "headquarters": "Cuttack",
+        "location_type": "district_headquarters",
+        "lat": 20.464,
+        "lon": 85.8792,
+        "source": "Prototype district coordinate dataset",
+        "last_verified": "2026-08-28"
+    },
+    {
+        "district_id": "OD-008",
+        "district": "Deogarh",
+        "headquarters": "Deogarh",
+        "location_type": "district_headquarters",
+        "lat": 21.53708,
+        "lon": 84.73012,
+        "source": "Prototype district coordinate dataset",
+        "last_verified": "2026-08-28"
+    },
+    {
+        "district_id": "OD-009",
+        "district": "Dhenkanal",
+        "headquarters": "Dhenkanal",
+        "location_type": "district_headquarters",
+        "lat": 20.6574,
+        "lon": 85.5963,
+        "source": "Prototype district coordinate dataset",
+        "last_verified": "2026-08-28"
+    },
+    {
+        "district_id": "OD-010",
+        "district": "Gajapati",
+        "headquarters": "Paralakhemundi",
+        "location_type": "district_headquarters",
+        "lat": 18.7816,
+        "lon": 84.088,
+        "source": "Prototype district coordinate dataset",
+        "last_verified": "2026-08-28"
+    },
+    {
+        "district_id": "OD-011",
+        "district": "Ganjam",
+        "headquarters": "Chhatrapur",
+        "location_type": "district_headquarters",
+        "lat": 19.3551,
+        "lon": 84.9836,
+        "source": "Prototype district coordinate dataset",
+        "last_verified": "2026-08-28"
+    },
+    {
+        "district_id": "OD-012",
+        "district": "Jagatsinghpur",
+        "headquarters": "Jagatsinghpur",
+        "location_type": "district_headquarters",
+        "lat": 20.25939,
+        "lon": 86.16609,
+        "source": "Prototype district coordinate dataset",
+        "last_verified": "2026-08-28"
+    },
+    {
+        "district_id": "OD-013",
+        "district": "Jajpur",
+        "headquarters": "Jajpur",
+        "location_type": "district_headquarters",
+        "lat": 20.85227,
+        "lon": 86.33857,
+        "source": "Prototype district coordinate dataset",
+        "last_verified": "2026-08-28"
+    },
+    {
+        "district_id": "OD-014",
+        "district": "Jharsuguda",
+        "headquarters": "Jharsuguda",
+        "location_type": "district_headquarters",
+        "lat": 21.87705,
+        "lon": 84.00905,
+        "source": "Prototype district coordinate dataset",
+        "last_verified": "2026-08-28"
+    },
+    {
+        "district_id": "OD-015",
+        "district": "Kalahandi",
+        "headquarters": "Bhawanipatna",
+        "location_type": "district_headquarters",
+        "lat": 19.90717,
+        "lon": 83.16698,
+        "source": "Prototype district coordinate dataset",
+        "last_verified": "2026-08-28"
+    },
+    {
+        "district_id": "OD-016",
+        "district": "Kandhamal",
+        "headquarters": "Phulbani",
+        "location_type": "district_headquarters",
+        "lat": 20.474,
+        "lon": 84.2309,
+        "source": "Prototype district coordinate dataset",
+        "last_verified": "2026-08-28"
+    },
+    {
+        "district_id": "OD-017",
+        "district": "Kendrapara",
+        "headquarters": "Kendrapara",
+        "location_type": "district_headquarters",
+        "lat": 20.5004,
+        "lon": 86.4317,
+        "source": "Prototype district coordinate dataset",
+        "last_verified": "2026-08-28"
+    },
+    {
+        "district_id": "OD-018",
+        "district": "Keonjhar",
+        "headquarters": "Keonjhar",
+        "location_type": "district_headquarters",
+        "lat": 21.58923,
+        "lon": 85.66878,
+        "source": "Prototype district coordinate dataset",
+        "last_verified": "2026-08-28"
+    },
+    {
+        "district_id": "OD-019",
+        "district": "Khordha",
+        "headquarters": "Khordha",
+        "location_type": "district_headquarters",
+        "lat": 20.22565,
+        "lon": 85.56059,
+        "source": "Prototype district coordinate dataset",
+        "last_verified": "2026-08-28"
+    },
+    {
+        "district_id": "OD-020",
+        "district": "Koraput",
+        "headquarters": "Koraput",
+        "location_type": "district_headquarters",
+        "lat": 18.8135,
+        "lon": 82.7123,
+        "source": "Prototype district coordinate dataset",
+        "last_verified": "2026-08-28"
+    },
+    {
+        "district_id": "OD-021",
+        "district": "Malkangiri",
+        "headquarters": "Malkangiri",
+        "location_type": "district_headquarters",
+        "lat": 18.348,
+        "lon": 81.892,
+        "source": "Prototype district coordinate dataset",
+        "last_verified": "2026-08-28"
+    },
+    {
+        "district_id": "OD-022",
+        "district": "Mayurbhanj",
+        "headquarters": "Baripada",
+        "location_type": "district_headquarters",
+        "lat": 21.93459,
+        "lon": 86.72852,
+        "source": "Prototype district coordinate dataset",
+        "last_verified": "2026-08-28"
+    },
+    {
+        "district_id": "OD-023",
+        "district": "Nabarangpur",
+        "headquarters": "Nabarangpur",
+        "location_type": "district_headquarters",
+        "lat": 19.23114,
+        "lon": 82.54826,
+        "source": "Prototype district coordinate dataset",
+        "last_verified": "2026-08-28"
+    },
+    {
+        "district_id": "OD-024",
+        "district": "Nayagarh",
+        "headquarters": "Nayagarh",
+        "location_type": "district_headquarters",
+        "lat": 20.11607,
+        "lon": 85.11196,
+        "source": "Prototype district coordinate dataset",
+        "last_verified": "2026-08-28"
+    },
+    {
+        "district_id": "OD-025",
+        "district": "Nuapada",
+        "headquarters": "Nuapada",
+        "location_type": "district_headquarters",
+        "lat": 20.7691,
+        "lon": 82.51863,
+        "source": "Prototype district coordinate dataset",
+        "last_verified": "2026-08-28"
+    },
+    {
+        "district_id": "OD-026",
+        "district": "Puri",
+        "headquarters": "Puri",
+        "location_type": "district_headquarters",
+        "lat": 19.80761,
+        "lon": 85.82525,
+        "source": "Prototype district coordinate dataset",
+        "last_verified": "2026-08-28"
+    },
+    {
+        "district_id": "OD-027",
+        "district": "Rayagada",
+        "headquarters": "Rayagada",
+        "location_type": "district_headquarters",
+        "lat": 19.1716,
+        "lon": 83.4163,
+        "source": "Prototype district coordinate dataset",
+        "last_verified": "2026-08-28"
+    },
+    {
+        "district_id": "OD-028",
+        "district": "Sambalpur",
+        "headquarters": "Sambalpur",
+        "location_type": "district_headquarters",
+        "lat": 21.4669,
+        "lon": 83.975,
+        "source": "Prototype district coordinate dataset",
+        "last_verified": "2026-08-28"
+    },
+    {
+        "district_id": "OD-029",
+        "district": "Subarnapur",
+        "headquarters": "Sonepur",
+        "location_type": "district_headquarters",
+        "lat": 20.833,
+        "lon": 83.916,
+        "source": "Prototype district coordinate dataset",
+        "last_verified": "2026-08-28"
+    },
+    {
+        "district_id": "OD-030",
+        "district": "Sundargarh",
+        "headquarters": "Sundargarh",
+        "location_type": "district_headquarters",
+        "lat": 22.11667,
+        "lon": 84.03333,
+        "source": "Prototype district coordinate dataset",
+        "last_verified": "2026-08-28"
+    }
+]

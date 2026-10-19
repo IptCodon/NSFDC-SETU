@@ -1,0 +1,41 @@
+[
+    {
+        "scheme_id": "MFS",
+        "name": "Micro Finance Scheme",
+        "description": "For small income-generating activities and micro-enterprises.",
+        "purpose": "project",
+        "max_loan_pct_of_cost": 90,
+        "max_loan_amount": 140000,
+        "interest_rate_beneficiary": 6.5,
+        "max_tenure_years": 5,
+        "moratorium_months": 6,
+        "source": "SIH prototype dataset - verify against current NSFDC guidelines",
+        "last_verified": "2026-08-28"
+    },
+    {
+        "scheme_id": "TL",
+        "name": "Term Loan Scheme",
+        "description": "For larger income-generating projects such as manufacturing, trading, services and transport.",
+        "purpose": "project",
+        "max_loan_pct_of_cost": 90,
+        "max_loan_amount": 5000000,
+        "interest_rate_beneficiary": 7.0,
+        "max_tenure_years": 10,
+        "moratorium_months": 6,
+        "source": "SIH prototype dataset - verify against current NSFDC guidelines",
+        "last_verified": "2026-08-28"
+    },
+    {
+        "scheme_id": "EDU",
+        "name": "Education Loan Scheme",
+        "description": "For eligible higher, professional and technical education expenses.",
+        "purpose": "education",
+        "max_loan_pct_of_cost": 90,
+        "max_loan_amount": 750000,
+        "interest_rate_beneficiary": 4.0,
+        "max_tenure_years": 10,
+        "moratorium_months": 12,
+        "source": "SIH prototype dataset - verify against current NSFDC guidelines",
+        "last_verified": "2026-08-28"
+    }
+]
